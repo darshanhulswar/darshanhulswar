@@ -33,18 +33,9 @@ I don’t just think outside the box — I **redefine it**.
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=darshanhulswar&show_icons=true&theme=radical" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darshanhulswar&theme=radical" width="45%" />
-</p>
-
----
-
 ### 🧠 My Mindset
 
-> *"Relentless isn’t a word. It’s a mindset I live by — I think, learn, break, fix, and grow every day."*  
+> *Relentless isn’t a word. It’s a mindset I live by — think, learn, break, fix, and grow every day.*  
 
 ---
 
@@ -54,5 +45,5 @@ I don’t just think outside the box — I **redefine it**.
 
 ---
 
-### 🚀 Always shipping. Always learning. Always relentless.
+### 🚀 Always learning. Always relentless.
 
