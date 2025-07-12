@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Darshan</h1>
-<h3 align="center">🚀 DevOps Enthusiast | 🔧 Technical Success Engineer @ Pendo | ♾️ Relentless by Nature</h3>
+<h3 align="center">🚀 DevOps Enthusiast | 🔧 Technical Success Engineer | ♾️ Relentless by Nature</h3>
 
 ---
 
